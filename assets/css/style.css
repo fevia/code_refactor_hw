@@ -149,7 +149,12 @@ p {
     max-height: 200px;
 } */
 
-.search-engine-optimization h2 {
+.main-titles h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* /* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -161,8 +166,8 @@ p {
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
-    font-size: 36px;
-}
+    font-size: 36px; */
+} */
 
 footer {
     font-size: 20px;
